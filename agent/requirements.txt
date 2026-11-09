@@ -1,0 +1,4 @@
+agno
+anthropic
+jsonschema
+requests
